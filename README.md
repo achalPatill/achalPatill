@@ -55,17 +55,17 @@ Software Engineer • Full Stack Developer • Problem Solver
 ## 📊 GitHub Overview
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ACHAL_USERNAME&theme=algolia&no-bg=true&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=achalPatill&theme=algolia&no-bg=true&no-frame=true&row=1&column=6"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ACHAL_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=achalPatill&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACHAL_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achalPatill&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=ACHAL_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=achalPatill&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -73,7 +73,7 @@ Software Engineer • Full Stack Developer • Problem Solver
 ## 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ACHAL_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=achalPatill&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -94,7 +94,7 @@ Brief description of another impactful project.
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ACHAL_USERNAME/ACHAL_USERNAME/output/snake.svg"/>
+<img src="https://raw.githubusercontent.com/achalPatill/achalPatill/output/snake.svg"/>
 </p>
 
 ---
@@ -103,7 +103,7 @@ Brief description of another impactful project.
 
 <p align="center">
 
-<a href="https://github.com/ACHAL_USERNAME">
+<a href="https://github.com/achalPatill">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -111,20 +111,17 @@ Brief description of another impactful project.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:achalpatil1352@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode"/>
-</a>
 
 </p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ACHAL_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=achalPatill&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 <h3 align="center">
