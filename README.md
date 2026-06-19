@@ -76,18 +76,6 @@ Software Engineer • Full Stack Developer • Problem Solver
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=achalPatill&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
----
-
-## 🏆 Featured Projects
-
-### 🚀 Project One
-Brief description of your best project.
-
-### 💡 Project Two
-Brief description of your second best project.
-
-### 🤖 Project Three
-Brief description of another impactful project.
 
 ---
 
@@ -107,7 +95,7 @@ Brief description of another impactful project.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/achal-patil-b700742a5">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
