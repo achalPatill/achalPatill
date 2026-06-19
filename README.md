@@ -108,9 +108,6 @@ Software Engineer • Full Stack Developer • Problem Solver
 
 ---
 
-<p align="center">
-<img src="<img src="https://komarev.com/ghpvc/?username=achalPatill&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
 
 <h3 align="center">
 ⭐ Turning Ideas Into Scalable Software Solutions ⭐
