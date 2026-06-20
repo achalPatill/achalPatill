@@ -79,13 +79,7 @@ Software Engineer • Full Stack Developer • Problem Solver
 
 ---
 
- ## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/achalPatill/achalpatill/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
-</p>
-
----
+ 
 
 ## 🌐 Connect With Me
 
